@@ -4,3 +4,4 @@ rose
 jaune
 bleu
 blanc
+Version 2
