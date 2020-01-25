@@ -2,3 +2,4 @@ rouge
 vert
 jaune
 bleu
+blanc
