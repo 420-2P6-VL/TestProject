@@ -1,0 +1,7 @@
+rouge
+vert
+rose
+jaune
+bleu
+blanc
+Version 2
