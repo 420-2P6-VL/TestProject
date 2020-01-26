@@ -1,6 +1,7 @@
 rouge
 vert
 rose
+noir
 jaune
 bleu
 blanc
