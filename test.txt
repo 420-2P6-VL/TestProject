@@ -1,7 +1,11 @@
 rouge
 vert
 rose
+noir
 jaune
 bleu
 blanc
+
+Version 3 du projet
 Version 2
+
